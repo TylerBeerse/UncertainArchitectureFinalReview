@@ -1,2 +1,0 @@
-# UncertainArchitectureFinalReview
-studio final review
